@@ -5,12 +5,8 @@ html, body {
   color: DarkSlateGrey;
   font-family: Tahoma, Verdana, sans-serif;
   font-size: 10pt;
+  
 }
-
-table#movies th.hilite {
-  background-color: yellow;
-}
-
 
 div#main {
   margin: 0;
@@ -64,4 +60,9 @@ form label {
   line-height: 25px;
   font-weight: bold;
   color: maroon;
+}
+
+/*column*/
+table#movies th.hilite {
+  background-color: yellow;
 }
