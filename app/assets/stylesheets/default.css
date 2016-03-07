@@ -55,7 +55,7 @@ table#movies th {
 table#movies th, table#movies td {
   padding: 4px;
   text-align: left;
-   background-color: yellow;
+ 
 }
 #notice #warning {
   background: rosybrown;
