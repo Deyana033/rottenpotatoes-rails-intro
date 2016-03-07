@@ -8,12 +8,6 @@ html, body {
   
 }
 
-table#movies th.hilite {
-  background-color: yellow;
-}
-
-
-
 div#main {
   margin: 0;
   padding: 0 20px 20px;
@@ -57,6 +51,13 @@ table#movies th, table#movies td {
   text-align: left;
  
 }
+
+/*column*/
+table#movies th.hilite {
+  background-color: yellow;
+}
+
+
 #notice #warning {
   background: rosybrown;
   margin: 1em 0;
@@ -69,9 +70,5 @@ form label {
   color: maroon;
 }
 
-/*column*/
-table#movies th.hilite {
-  background-color: yellow;
-}
 
 
